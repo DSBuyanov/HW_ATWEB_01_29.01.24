@@ -9,4 +9,4 @@ INSERT INTO courier_info(first_name, last_name, phone_number, delivery_type) VAL
 ('John', 'Rython', '+ 7 960 655 0954', 'foot'),
 ('Kate', 'Looran', '+ 7 960743 0146', 'car'),
 ('Bob', 'Kolaris', '+ 7 960 107 7798', 'car'),
-('Michael', 'Frontal', '+ 7 960 566 5516', 'car');
+('Michael', 'Frontal', '+ 7 960 566 5516', 'foot');
