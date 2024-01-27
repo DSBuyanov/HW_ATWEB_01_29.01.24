@@ -6,10 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="auto" />
+        <module name="your.artifactId" />
         <module name="VVEDENIE_AUTOTEST_Seminar_4-HW4-lesson4" />
         <module name="Auto_HW_4" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="auto" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
